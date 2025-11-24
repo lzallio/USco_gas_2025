@@ -3,6 +3,7 @@ Github-Zenodo repository containing the priors and results of Zallio et al. (202
 
 If you make use of any material, please cite:
 
+```
 @ARTICLE{2025arXiv251116734Z,
        author = {{Zallio}, Luigi and {Rosotti}, Giovanni P. and {Vioque}, Miguel and {Miotello}, Anna and {Andrews}, Sean M. and {Manara}, Carlo F. and {Carpenter}, John M. and {Empey}, Aaron and {Kurtovic}, Nicol{\'a}s T. and {Law}, Charles J. and {Longarini}, Cristiano and {Paneque-Carre{\~n}o}, Teresa and {Teague}, Richard and {Villenave}, Marion and {Yen}, Hsi-Wei and {Zagaria}, Francesco},
         title = "{The 12CO Gas Structures of Protoplanetary Disks in the Upper Scorpius Region}",
@@ -18,4 +19,4 @@ archivePrefix = {arXiv},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2025arXiv251116734Z},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-
+```
